@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## function to set the matrix and calculate the Inverse
+## function to set & get the matrix and its Inverse
 
 makeCacheMatrix <- function(x = matrix()) {
 
